@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RealMission12.props" />
+</Project>
